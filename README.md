@@ -9,8 +9,11 @@ dovizKur.php
 
 Verileriler;
 
-Birim	Satış	Alış	Değişim / formatında
-USD	EUR	GBP	GA	C	GAG	BTC	ETH	XU100	/destekli
+Format;
+Birim	Satış	Alış	Değişim
+
+Para birimleri;
+USD	EUR	GBP	GA	C	GAG	BTC	ETH	XU100	
 
 
 
