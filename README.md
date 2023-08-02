@@ -16,7 +16,5 @@ Para birimleri;
 USD	EUR	GBP	GA	C	GAG	BTC	ETH	XU100	
 
 
-önemli not: database/dovizKur.php adresini değiştiriniz.
-
 
 
