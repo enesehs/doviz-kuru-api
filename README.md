@@ -6,7 +6,7 @@ Bu PHP dosyası, genelpara.com API'sinden döviz kurları ve altın fiyatların�
 
 **Sürüm:** V1
 
-**Destekli Diller** PHP, C# JavaScript
+**Destekli Diller:**  PHP, C# JavaScript
 ## Veri Formatı
 
 Veriler aşağıdaki tablo formatında sunulmaktadır:
