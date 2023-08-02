@@ -3,9 +3,8 @@ dovizKur.php
 
  Bu dosya, genelpara.com API'sinden döviz kurları ve altın fiyatlarını alarak gösterir.
 
- Coder: [enesehs]
- E-posta: [enes.ehs@protonmail.com]
- Tarih: [T02.08.2023]
+ Coder: [enesehs] 
+  
  Sürüm: [V.1]
 
 Verileriler;
