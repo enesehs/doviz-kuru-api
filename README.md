@@ -2,9 +2,9 @@
 
 Bu PHP dosyası, genelpara.com API'sinden döviz kurları ve altın fiyatlarını alarak göstermektedir.
 
-**Coder:** Enes Ehsen (GitHub kullanıcı adı: enesehs)
+**Coder:** Enesehs (GitHub kullanıcı adı: enesehs)
 
-**Sürüm:** V.1
+**Sürüm:** V1
 
 ## Veri Formatı
 
