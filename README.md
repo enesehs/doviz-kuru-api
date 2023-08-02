@@ -1,20 +1,28 @@
-# doviz-kuru-api
-dovizKur.php
+# Döviz ve Altın Fiyatları Gösterimi
 
- Bu dosya, genelpara.com API'sinden döviz kurları ve altın fiyatlarını alarak gösterir.
+Bu PHP dosyası, genelpara.com API'sinden döviz kurları ve altın fiyatlarını alarak göstermektedir.
 
- Coder: [enesehs] 
-  
- Sürüm: [V.1]
+**Coder:** Enes Ehsen (GitHub kullanıcı adı: enesehs)
 
-Verileriler;
+**Sürüm:** V.1
 
-Format;
-Birim	Satış	Alış	Değişim
+## Veri Formatı
 
-Para birimleri;
-USD	EUR	GBP	GA	C	GAG	BTC	ETH	XU100	
+Veriler aşağıdaki tablo formatında sunulmaktadır:
 
+| Birim | Satış | Alış | Değişim |
+|-------|-------|------|---------|
 
+## Para Birimleri
 
+Bu API, aşağıdaki para birimlerinin döviz kurları ve altın fiyatlarını içermektedir:
 
+- USD (Amerikan Doları)
+- EUR (Euro)
+- GBP (İngiliz Sterlini)
+- GA (Gümüş)
+- C (Çeyrek Altın)
+- GAG (Gram Altın)
+- BTC (Bitcoin)
+- ETH (Ethereum)
+- XU100 (BIST 100 Endeksi)
